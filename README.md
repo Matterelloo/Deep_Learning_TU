@@ -17,7 +17,7 @@ To set up the environment and install the required dependencies, follow these st
 - [ ] **DQN Implementation**:
     - [x] Implement the Q-Network architecture (typically a multi-layer perceptron for simple environments).
     - [x] Implement the experience replay buffer.
-    - [ ] Implement the target network update mechanism.
+    - [x] Implement the target network update mechanism.
     - [x] Implement the ϵ-greedy action selection strategy.
     - [ ] Implement the DQN loss function and training loop.
 

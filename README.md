@@ -14,15 +14,15 @@ To set up the environment and install the required dependencies, follow these st
    ```
 
 ## The project
-- [ ] **DQN Implementation**:
+- [x] **DQN Implementation**:
     - [x] Implement the Q-Network architecture (typically a multi-layer perceptron for simple environments).
     - [x] Implement the experience replay buffer.
     - [x] Implement the target network update mechanism.
     - [x] Implement the ϵ-greedy action selection strategy.
-    - [ ] Implement the DQN loss function and training loop.
+    - [x] Implement the DQN loss function and training loop.
 
 - [ ] **Training**:
-    - [ ] Train the DQN agent in the chosen environment.
+    - [x] Train the DQN agent in the chosen environment.
     - [ ] Monitor training progress (e.g., episode rewards, loss).
     - [ ] Evaluate the trained agent’s performance (e.g., average score over multiple episodes).
     - [ ] Experiment with hyperparameters (e.g., learning rate, replay buffer size, ϵ decay rate, network architecture).
